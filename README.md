@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Born 2007 | Student | CS Undergrad
+
+- i like mahiro, tohr, and vesna
+- i'm exploring the thing i like in coding 
