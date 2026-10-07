@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, i'm mahiro/qinghuan-lee
 
 <!--
 **Qinghuan-Lee/Qinghuan-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Born 2007 | Student | CS Undergrad
+``Born 2007`` | ``Student`` | ``CS Undergrad``
 
 - i like mahiro, tohr, and vesna
 - i'm exploring the thing i like in coding 
