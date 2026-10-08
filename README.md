@@ -4,3 +4,5 @@ Hi, i'm mahiro/qinghuan-lee
 
 - i like mahiro, tohr, and vesna
 - i'm exploring the thing i like in coding 
+
+<span style = "color:red;"> 这是一句话 </span>
